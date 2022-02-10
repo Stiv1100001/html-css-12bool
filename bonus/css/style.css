@@ -1,0 +1,32 @@
+[class*="col"] {
+    height: 50px;
+}
+
+.green-1 {
+    background-color: rgb(105, 178, 70);
+}
+
+.green-2 {
+    background-color: rgb(127, 193, 67);
+}
+
+.green-3 {
+    background-color: #509844;
+}
+
+.brown {
+    background-color: rgb(123, 80, 35);
+}
+
+
+.brown-2 {
+    background-color: rgb(186, 125, 60);
+}
+
+.brown-3 {
+    background-color: rgb(90, 57, 24);
+}
+
+.gray {
+    background-color: #6B6B6B;
+}
